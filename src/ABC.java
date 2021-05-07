@@ -10,7 +10,9 @@ public class ABC {
 		return this.name+this.id;
 		
 	}
-
+   //This is show method to show you all the output
+	//This is show method to show you all the output
+	//This is show method to show you all the output
 	public String show(String name) {
 		this.name=name;
 	
